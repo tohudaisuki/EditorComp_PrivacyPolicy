@@ -1,4 +1,4 @@
-# InstaComp PrivacyPolicy
+# EditorComp PrivacyPolicy
 
 ### 【利用者情報の取得】
 本アプリは画像編集アプリであるため一時的にユーザーが選択した画像を取得しますが、これらを保持することはありません。
